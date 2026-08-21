@@ -1,6 +1,8 @@
 # Heart Disease Prediction
 
 Machine learning project for predicting heart disease using multiple classification algorithms and ensemble learning techniques on the UCI Heart Disease dataset.
+## Screenshots
+<img width="1356" height="647" alt="image" src="https://github.com/user-attachments/assets/745a97c7-14ac-48fb-9701-7bb7a26010ce" />
 
 ## Overview
 
